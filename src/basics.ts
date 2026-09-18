@@ -39,3 +39,7 @@ function subscribe(message: string): number{
     return 1;
 }
 
+//null and undefined
+let nullValue: null = null;
+let undefinedValue: undefined = undefined;
+
