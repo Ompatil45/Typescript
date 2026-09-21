@@ -18,11 +18,11 @@ let id2: ID = 123456;
 interface Animal{
     name: string;
 }
-interface Dog extends Animal{
+interface Dogg extends Animal{
     breed: string;
 }
-let myDog: Dog = {
-    name: 'tommy',
+let myDog: Dogg = {
+    name: "tommy",
     breed: "golden retriever"
 }
 
